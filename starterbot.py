@@ -54,7 +54,7 @@ def handle_command(command, channel):
     # start to implement the more command
     if command.startswith(EXAMPLE_COMMAND):
         response = "sure write some more code then i can do that"
-    if command.startswith(300_PERF_NOTIFY")
+    if command.startswith(PERF_NOTIFY")
 	"""
         get the response of the 300 perf results of the to json or xml document
         then send the response to the perticular channel
